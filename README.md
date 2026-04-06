@@ -12,7 +12,7 @@ I am **Junior Developer** and a student at **BSU FAMCS**.
 - **Tools & Tech:** Git, Docker, Linux, SQL
   
 ### 📊 My Projects
-- **[Real-Time-Crypto-Analytics](link-to-repo):** A Python and C++ -based tool for tracking crypto metrics.
+- **[Real-Time-Crypto-Analytics](https://github.com/vmkzy/Real-Time-Crypto-Analytics):** A Python and C++ -based tool for tracking crypto metrics.
 
 ---
 ### 📊 GitHub Stats:
