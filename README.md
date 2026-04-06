@@ -1,6 +1,6 @@
 # Hi there👋
 
-I am **Junior Developer** and a student at **BSU FAMCS**.
+I am student at **BSU FAMCS**.
 
 ### 🚀 About Me
 - 💻 Interested in **Machine Learning** and **Backend Development**.
