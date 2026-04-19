@@ -8,7 +8,7 @@ I am student at **BSU FAMCS**.
 - 🌱 I’m currently sharpening my skills in **C++**, **Python**, and **Go**.
 
 ### 🛠 Tech Stack
-- **Languages:** C++, Python, Go, x86 Assembly
+- **Languages:** C++, Python, Go, C#, x86 Assembly
 - **Tools & Tech:** Git, Docker, Linux, SQL
   
 ### 📊 My Projects
