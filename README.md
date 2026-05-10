@@ -3,16 +3,16 @@
 I am student at **BSU FAMCS**.
 
 ### 🚀 About Me
-- 💻 Interested in **Machine Learning** and **Backend Development**.
-- 🏆 Actively participating in competitive programming.
-- 🌱 I’m currently sharpening my skills in **C++**, **Python**, and **Go**.
+- Interested in **Machine Learning** and **Backend Development**.
+- Actively participating in competitive programming.
+- I’m currently sharpening my skills in **C++**, **Python**, and **Go**.
 
 ### 🛠 Tech Stack
 - **Languages:** C++, Python, Go, C#, x86 Assembly
 - **Tools & Tech:** Git, Docker, Linux, SQL
   
 ### 📊 My Projects
-- **[Real-Time-Crypto-Analytics](https://github.com/vmkzy/Real-Time-Crypto-Analytics):** A Python and C++ -based tool for tracking crypto metrics.
+- **[Real-Time-Crypto-Analytics](https://github.com/vmkzy/Real-Time-Crypto-Analytics):** A C++ based tool for tracking crypto metrics.
 
 ---
 ### 📊 GitHub Stats:
